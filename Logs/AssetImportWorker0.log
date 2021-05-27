@@ -939,3 +939,275 @@ System memory in use after: 250.4 MB.
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4256.
 Total: 13.254843 ms (FindLiveObjects: 7.004335 ms CreateObjectMapping: 0.977959 ms MarkObjects: 5.071363 ms  DeleteObjects: 0.198186 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002437 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.890 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 250.5 MB.
+System memory in use after: 250.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4260.
+Total: 4.945837 ms (FindLiveObjects: 0.521587 ms CreateObjectMapping: 0.396125 ms MarkObjects: 3.874014 ms  DeleteObjects: 0.152398 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.199712 seconds.
+  path: Assets/Animations/Takuma/Takuma_IDLE_Loop.cs
+  artifactKey: Guid(6b4dec07c5f304a5fa3c25098476343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Takuma/Takuma_IDLE_Loop.cs using Guid(6b4dec07c5f304a5fa3c25098476343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5385d3821491a4516e9b8fb9835723e2') in 0.010922 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002869 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.788 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 250.7 MB.
+System memory in use after: 250.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4264.
+Total: 3.984649 ms (FindLiveObjects: 0.365282 ms CreateObjectMapping: 0.192452 ms MarkObjects: 3.285735 ms  DeleteObjects: 0.139879 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.962271 seconds.
+  path: Assets/Animations/Takuma/Takuma_IDLE_Loop.cs
+  artifactKey: Guid(6b4dec07c5f304a5fa3c25098476343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Takuma/Takuma_IDLE_Loop.cs using Guid(6b4dec07c5f304a5fa3c25098476343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd894384b2458583c98670642c0c84463') in 0.011743 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004679 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.824 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 250.9 MB.
+System memory in use after: 251.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4268.
+Total: 3.753023 ms (FindLiveObjects: 0.332986 ms CreateObjectMapping: 0.180827 ms MarkObjects: 3.111390 ms  DeleteObjects: 0.126441 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002914 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.250 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 251.2 MB.
+System memory in use after: 251.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4272.
+Total: 3.857623 ms (FindLiveObjects: 0.331421 ms CreateObjectMapping: 0.172972 ms MarkObjects: 3.219215 ms  DeleteObjects: 0.132636 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002579 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.286 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 251.6 MB.
+System memory in use after: 251.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4276.
+Total: 3.831628 ms (FindLiveObjects: 0.337058 ms CreateObjectMapping: 0.168948 ms MarkObjects: 3.191218 ms  DeleteObjects: 0.132839 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003383 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.778 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 251.8 MB.
+System memory in use after: 251.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4280.
+Total: 8.032903 ms (FindLiveObjects: 0.815712 ms CreateObjectMapping: 0.472081 ms MarkObjects: 6.503797 ms  DeleteObjects: 0.239396 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 315.199233 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(d56d7fed0203443bc81628bb10fd5757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(d56d7fed0203443bc81628bb10fd5757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe59e52ef686812cec1e1d6a65e45c99') in 0.013104 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005701 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.727 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 252.0 MB.
+System memory in use after: 252.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4284.
+Total: 16.055983 ms (FindLiveObjects: 0.780481 ms CreateObjectMapping: 0.495864 ms MarkObjects: 14.567799 ms  DeleteObjects: 0.209790 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.598935 seconds.
+  path: Assets/Scripts/Takuma_AnimationScript.cs
+  artifactKey: Guid(6b4dec07c5f304a5fa3c25098476343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Takuma_AnimationScript.cs using Guid(6b4dec07c5f304a5fa3c25098476343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cfa8fbe42a2c5dad4dcf64723106dba') in 0.026258 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003954 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.958 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 252.2 MB.
+System memory in use after: 252.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4288.
+Total: 6.226976 ms (FindLiveObjects: 0.520527 ms CreateObjectMapping: 0.199333 ms MarkObjects: 5.083736 ms  DeleteObjects: 0.421983 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004766 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.334 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 252.4 MB.
+System memory in use after: 252.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4292.
+Total: 6.203390 ms (FindLiveObjects: 0.596202 ms CreateObjectMapping: 0.312138 ms MarkObjects: 5.059378 ms  DeleteObjects: 0.233497 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.782010 seconds.
+  path: Assets/Scripts/Takuma_AnimationScript.cs
+  artifactKey: Guid(6b4dec07c5f304a5fa3c25098476343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Takuma_AnimationScript.cs using Guid(6b4dec07c5f304a5fa3c25098476343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf937d71f5418baa52cb89469228b57') in 0.015655 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.048295 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.197 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 252.7 MB.
+System memory in use after: 252.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4296.
+Total: 6.023366 ms (FindLiveObjects: 0.348508 ms CreateObjectMapping: 0.176238 ms MarkObjects: 5.343965 ms  DeleteObjects: 0.152980 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005371 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.964 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 252.9 MB.
+System memory in use after: 253.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4300.
+Total: 8.367050 ms (FindLiveObjects: 0.874298 ms CreateObjectMapping: 0.654523 ms MarkObjects: 6.641773 ms  DeleteObjects: 0.194282 ms)
+
