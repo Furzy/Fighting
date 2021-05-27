@@ -11,7 +11,7 @@ public class Takuma_AnimationScript : MonoBehaviour
 
     private void GoToFrame(float desiredFrame)
     {
-        var currentClip = animator.GetCurrentAnimatorClipInfo(0)[0].clip;
+        var currentClip = animator.runtimeAnimatorController.animationClips[0];
         var animationName = currentClip.name;
         var nbFramesInClip = currentClip.length * 60f;
         animator.Play(animationName, 0, ( 1f / nbFramesInClip ) * desiredFrame);
