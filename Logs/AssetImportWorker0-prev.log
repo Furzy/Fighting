@@ -1,0 +1,536 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53727
+Successfully changed project path to: /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting
+/Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 303.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-05-27 09:58:56.273 Unity[65522:2160095] Color LCD preferred device: Intel Iris Graphics (low power)
+2021-05-27 09:58:56.273 Unity[65522:2160095] Metal devices available: 1
+2021-05-27 09:58:56.273 Unity[65522:2160095] 0: Intel Iris Graphics (low power)
+2021-05-27 09:58:56.274 Unity[65522:2160095] Using device Intel Iris Graphics (low power)
+Initializing Metal device caps: Intel Iris Graphics
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56522
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001795 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 180.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.097 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003998 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 234.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.063 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 203.3 MB.
+System memory in use after: 203.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3824.
+Total: 6.276834 ms (FindLiveObjects: 0.776862 ms CreateObjectMapping: 0.551155 ms MarkObjects: 4.688512 ms  DeleteObjects: 0.257990 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/StageSprite
+  artifactKey: Guid(2fc7ec25c452c46c1b2ebd052c29596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StageSprite using Guid(2fc7ec25c452c46c1b2ebd052c29596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed55ed8497b9ddd3731a358e079a7d7a') in 0.008302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.966357 seconds.
+  path: Assets/StageSprite/Stage_Dojo.png
+  artifactKey: Guid(b7a6711b4b802471a9e9957a88744853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StageSprite/Stage_Dojo.png using Guid(b7a6711b4b802471a9e9957a88744853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d712b5ca9d5cac0ec9432c8eff88733') in 0.798790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.402965 seconds.
+  path: Assets/StageSprite/Stage_Dojo.png
+  artifactKey: Guid(b7a6711b4b802471a9e9957a88744853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StageSprite/Stage_Dojo.png using Guid(b7a6711b4b802471a9e9957a88744853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2955a9f1bfd4db1bac7c11a7d9d6d3') in 0.044497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 82.446360 seconds.
+  path: Assets/SpriteSheets/Stages
+  artifactKey: Guid(e55ad83a63be1477084ee57b38aefd1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages using Guid(e55ad83a63be1477084ee57b38aefd1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '947f762ec56c8e5b60ba2689a0241384') in 0.008809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.785913 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94406351b844d371e816aba18953614') in 0.045149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.238682 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1047f3f8138e1c327fc60e379e964a9b') in 0.053687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 160.079967 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma
+  artifactKey: Guid(0a5448e76b56f4b569d7350ec8be677b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma using Guid(0a5448e76b56f4b569d7350ec8be677b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3db02f877b25734ee64a5ab6132f0735') in 0.014365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.771439 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.gif
+  artifactKey: Guid(2a397b366942b4f928ac2258ecf29b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.gif using Guid(2a397b366942b4f928ac2258ecf29b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49a330c6156e782b0da4a07dc3db7cc6') in 2.647527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.498712 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.gif
+  artifactKey: Guid(2a397b366942b4f928ac2258ecf29b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.gif using Guid(2a397b366942b4f928ac2258ecf29b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cff0f5aa0ca99bc83f74f45bbd8432d') in 0.030693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 61.479500 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4cf0390076df876960722adb9d441f') in 0.032486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.475916 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc926a13faac5885d6d472fa92e0db4') in 0.020700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 108.107265 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659c57882b22a0a885796830032d3fe8') in 0.242871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.792894 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df672b4aaba54310d34c83eef51bb8') in 2.462817 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003436 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.425 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.2 MB.
+System memory in use after: 229.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3968.
+Total: 8.108390 ms (FindLiveObjects: 0.627254 ms CreateObjectMapping: 0.551738 ms MarkObjects: 6.796611 ms  DeleteObjects: 0.130991 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 518.403204 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6969ff2cd661d1fd113e9b850b075b') in 0.428052 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004539 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.232 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.9 MB.
+System memory in use after: 230.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3987.
+Total: 4.673288 ms (FindLiveObjects: 0.512163 ms CreateObjectMapping: 0.419258 ms MarkObjects: 3.600773 ms  DeleteObjects: 0.139296 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002266 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.443 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.1 MB.
+System memory in use after: 230.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3991.
+Total: 7.983930 ms (FindLiveObjects: 0.674184 ms CreateObjectMapping: 0.703722 ms MarkObjects: 6.392912 ms  DeleteObjects: 0.211217 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002154 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.268 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.4 MB.
+System memory in use after: 230.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3995.
+Total: 4.357969 ms (FindLiveObjects: 0.440757 ms CreateObjectMapping: 0.372674 ms MarkObjects: 3.368455 ms  DeleteObjects: 0.174388 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002614 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.095 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.6 MB.
+System memory in use after: 230.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3999.
+Total: 6.826969 ms (FindLiveObjects: 0.751924 ms CreateObjectMapping: 0.506591 ms MarkObjects: 5.387625 ms  DeleteObjects: 0.178767 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1241.199789 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbe04fbe720de69cfc6ab9c0eb0faa9') in 0.269176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.636915 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd21871cffecbdf9b079071eede777b3') in 0.183174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.085318 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '083430c3993179cb0519d5fcb31e4855') in 0.194825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.831789 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2948587dad8bfbf38337681be975fb77') in 0.206061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.211443 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647138d7ee9bd7374235eb86a1e6260a') in 0.215746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.256898 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d9ba43440671573cd19bc8c9a99e29') in 0.167522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.785986 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc880fe9b74b312f7fe348ff2d8a981') in 0.173011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.014125 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9030f912f280940065b7bae7c5c3adb') in 0.178573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.885815 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4d892abfb85a71d864deaf0d508418') in 0.172012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.044836 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f1151246603db264ca3f2351dddefa') in 0.205942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.351920 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f0a452b5a2ce59164c4320bb244a03') in 0.190033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.716412 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc5191757cbc5c2153192a326fd2b19') in 0.186420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.633999 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377453d473f010f82ff910beaf7b57a1') in 0.122306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.076547 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059b3e47ed922525fbac49df5596bf92') in 0.160342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.488662 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab41212ab8ccfb98344b051a96181a9f') in 0.146198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.308659 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b16961cc0298435180f38212ba3a36b') in 0.162615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.039123 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5804f6ea5c176400962eebc64df8931') in 0.191637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.084953 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd890adbb7129b739240de8b375ca608d') in 0.170703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.491405 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09438210debabc650efe428be8862a9d') in 0.185897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.766152 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f626d9c67042ace3fd598eb2bbd227f7') in 0.177389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.081059 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af836d4687c306c40650d2359d4f827') in 0.042693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.214679 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f49a95319669e1bcc403b135f80116') in 0.035149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.878012 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4723ddb80d4de998f0796ccd0c84e4c7') in 0.038385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.302089 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8accc2e2c6552a6193c26a22ccb68b49') in 0.036121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.961157 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60a5a1a4f3447efaf1a00b2b9beb8bc4') in 0.206308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.644463 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109ade28adbb285efc9f3e1917825888') in 0.042314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.398064 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '819674960dae9783ceda30a7d3fad069') in 0.155167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.707211 seconds.
+  path: Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png
+  artifactKey: Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Characters/Takuma/Takuma_IDLE.png using Guid(20ada4658e2bd4dcab14292e3e538b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38965fc302acdba5327972b8d94e4e2') in 0.164865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 77.424526 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86a6b4ef02c8628480f52396ef3e523') in 0.047395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.303696 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460450e1c4b76806e1349d328bd6feab') in 0.031159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.812648 seconds.
+  path: Assets/SpriteSheets/Stages/Stage_Dojo.png
+  artifactKey: Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/Stages/Stage_Dojo.png using Guid(070aaf0f0eda94dc2ad5c618185d63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f931486fe7472b82f9d739214c437bcb') in 0.040605 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005015 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.869 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 244.8 MB.
+System memory in use after: 244.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4448.
+Total: 4.198941 ms (FindLiveObjects: 0.394407 ms CreateObjectMapping: 0.202216 ms MarkObjects: 3.457498 ms  DeleteObjects: 0.142694 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002970 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.802 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 245.0 MB.
+System memory in use after: 245.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4452.
+Total: 3.913162 ms (FindLiveObjects: 0.341663 ms CreateObjectMapping: 0.193308 ms MarkObjects: 3.235309 ms  DeleteObjects: 0.141380 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003024 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.798 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 245.3 MB.
+System memory in use after: 245.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4456.
+Total: 4.165691 ms (FindLiveObjects: 0.342130 ms CreateObjectMapping: 0.164591 ms MarkObjects: 3.533605 ms  DeleteObjects: 0.123744 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001993 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Furzy/Library/Mobile Documents/com~apple~CloudDocs/Unity/Fighting/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 245.5 MB.
+System memory in use after: 245.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4460.
+Total: 4.898182 ms (FindLiveObjects: 0.546540 ms CreateObjectMapping: 0.406704 ms MarkObjects: 3.804138 ms  DeleteObjects: 0.139409 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
