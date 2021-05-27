@@ -221,7 +221,7 @@ GameObject:
   - component: {fileID: 1478245572}
   - component: {fileID: 1478245573}
   m_Layer: 10
-  m_Name: Player
+  m_Name: Takuma
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -361,8 +361,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b4dec07c5f304a5fa3c25098476343d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentClip: {fileID: 0}
-  animator: {fileID: 0}
 --- !u!1 &1698708579
 GameObject:
   m_ObjectHideFlags: 0

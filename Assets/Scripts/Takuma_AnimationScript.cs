@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Takuma_AnimationScript : MonoBehaviour
 {
-    public AnimationClip currentClip;
-    public Animator animator;
+    private AnimationClip currentClip;
+    private Animator animator;
 
     private void Awake() => animator = GetComponent<Animator>();
 
-    public void GoToFrame(float desiredFrame)
+    private void GoToFrame(float desiredFrame)
     {
         var currentClip = animator.GetCurrentAnimatorClipInfo(0)[0].clip;
         var animationName = currentClip.name;
